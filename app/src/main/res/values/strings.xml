@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BorutoApp</string>
+    <string name="app_logo">App Logo</string>
+    <string name="on_boarding_image">On Boarding Image</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="star_path">M14,21.288,21.416,26l-1.968-8.88L26,11.145l-8.628-.771L14,2l-3.372,8.375L2,11.145,8.552,17.12,6.584,26Z</string>
+    <string name="hero_image">Hero Image</string>
+    <string name="network_error_icon">Network Error Icon</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="info_icon">Info Icon</string>
+    <string name="power">Güç</string>
+    <string name="month">Ay</string>
+    <string name="birthday">Doğum Günü</string>
+    <string name="about">Hakkında</string>
+    <string name="family">Aile</string>
+    <string name="abilities">Yetenekler</string>
+    <string name="nature_types">Doğa Türleri</string>
+
+
+    <string name="sign_in_title">Sign in to Continue</string>
+    <string name="sign_in_subtitle">if you want to access this app,\nfirst you need to sign in.</string>
+    <string name="bitir">Bitir</string>
+</resources>
